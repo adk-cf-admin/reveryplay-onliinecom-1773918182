@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0D2035",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D2035",
+            "welcome-bonus-bg": "#0D2035",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#183d65",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#F9D284",
+            "text-head": "#0D2035",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F9D284",
+            "yellow": "#295989",
+            "yellow-button": "#F9D284",
+            "button-text": "#ffffff",
+            "main-button-text": "#0D2035",
+            "border-color": "#efefdc",
+            "casino-cards": "#0D2035",
+            "bonus-border-head": "#0D2035",
+            "bonus-border": "#ffffff",
+            "providers-back": "#0D2035",
+            "faq-label": "#0D2035",
+            "bg-footer": "#0D2035",
+            "copyright": "#e7e7d5",
+            "starColor": "#F9D284",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4745"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4746",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Revery Play Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4747",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Revery Play"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Revery Play",
+                    "title": "Revery Play — Best UK Online Casino | £5,000 Bonus",
+                    "description": "Play at Revery Play UK with 3000+ slots, live dealers & up to £5,000 welcome bonus + 250 free spins. Licensed gaming platform. Join today!\n",
+                    "canonical": "reveryplay-onliine.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4748",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "reveryplay-onliine.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4749"
+                },
+                "hero": {
+                    "title": "UK's Premier Online Casino — Revery Play",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4750",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4751",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a top-rated online casino in the UK? At Revery Play, we combine 3,000+ certified games, instant payouts, and a rewarding loyalty programme built for British players. Here's what sets us apart:\n",
+                    "items": [
+                        "Welcome Pack up to £5,000 + 250 Free Spins for new UK players",
+                        "3,000+ games from Pragmatic Play, Evolution, BGaming & Nolimit",
+                        "Live Casino powered by Evolution & Pragmatic Play Live studios",
+                        "SSL 256-bit encryption protecting 100% of UK player transactions",
+                        "Weekly cashback bonus & tournaments with £3,000+ prize pools",
+                        "Loyalty Programme: Dreamer, Enchanter, Believer, Legend tiers"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied UK players at Revery Play — where every spin counts toward elite rewards. Our dedicated support team is ready to assist British players 24\/7 via live chat.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Revery Play App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4752",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Revery Play App",
+                    "mobileGooglePlayImageTitle": "Revery Play App",
+                    "mobileIosImageTitle": "Revery Play App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Revery Play Casino",
+                        "description1": "We are Revery Play, a trusted online gaming platform built for UK players who demand quality, variety, and fairness. Our certified casino features 3,000+ games from 40+ leading providers.\n",
+                        "items": [
+                            "Launched as a mobile-first gaming platform for UK players",
+                            "Integrated Evolution Gaming live dealer studios",
+                            "Achieved certified RNG fairness across all game titles",
+                            "Expanded to 40+ providers including Pragmatic Play & Nolimit"
+                        ],
+                        "description2": "We operate with a certified licence and use SSL 256-bit encryption to protect all UK player data and transactions. Every game is RNG-tested for guaranteed fair play outcomes.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4753",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our game portfolio with fresh titles and exclusive UK promotions. Responsible gaming tools and 24\/7 support make us the trusted choice for British players. Join Revery Play today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for UK Players",
+                        "description": "<h2>Complete Game Portfolio for UK Players at Revery Play<\/h2>\n\n<p>At Revery Play, we offer one of the most diverse gaming libraries available to UK players, featuring over 3,000 certified titles across slots, live dealer tables, instant win games, and more. Our platform is powered by 40+ industry-leading software providers including Pragmatic Play, Evolution Gaming, BGaming, Nolimit City, Hacksaw Gaming, Playson, Ezugi, Yggdrasil, PG Soft, and Red Tiger Gaming. Every single game on our platform is RNG-tested and independently verified to ensure fair play for every British player who chooses to wager with us. Whether you prefer spinning the reels on high-volatility slots, competing at live blackjack tables, or testing your nerve on crash games, Revery Play delivers an unmatched gambling experience tailored to UK tastes and preferences.<\/p>\n\n<h3>Slots Collection — Thousands of Titles Awaiting UK Players<\/h3>\n<p>Our slot machine library is the cornerstone of the Revery Play gaming experience. We host thousands of certified slot titles ranging from classic three-reel fruit machines to modern video slots with immersive bonus rounds, free spins features, and progressive jackpots. UK players love our selection of Pragmatic Play megahits including Gates of Olympus, Sweet Bonanza 1000, Big Bass Bonanza, and Book of the Fallen — all available with optional Bonus Buy features for instant access to free spin rounds. BGaming contributes fan favourites such as Aviator, Wild Million, Aztec Magic Deluxe, and Elvis Frog in Vegas, while Nolimit City supplies high-volatility thrills via San Quentin 2: Death Row, Land of the Free, and Home of the Brave. Our slot portfolio is refreshed weekly with new releases, ensuring British players always have fresh content to explore.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High-Volatility Slots:<\/strong> Titles from Nolimit City (San Quentin 2, Home of the Brave) and Hacksaw Gaming (Pug Life, Ze Zeus) deliver massive win potential with RTP values between 96.0% and 96.5%, ideal for UK high-rollers chasing big payouts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pragmatic Play Portfolio:<\/strong> Over 200 Pragmatic Play slots available including Gates of Olympus 1000 (max win 5,000x), Sweet Bonanza Super Scatter, Big Bass Mission Fishin', Wolf Gold Ultimate, and Starlight Princess Super Scatter — all with certified RNG outcomes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>BGaming Originals:<\/strong> Exclusive crash-style and instant win mechanics from BGaming including Aviator Studio's Aviator (player-favourite among UK gamblers), Plinko XY, Space XY, and Minesweeper XY for those seeking quick-action gameplay beyond traditional reels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy & Bonus Wagering:<\/strong> Dozens of titles support the Bonus Buy feature, allowing UK players to purchase direct access to free spin rounds. Popular choices include Gates of Olympus 1000, Fortune of Olympus, and Anaconda Gold from Pragmatic Play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpots:<\/strong> Track live jackpot wins on our platform — recent winners have claimed prizes exceeding £55,642, £30,371, and £24,112 from progressive jackpot titles, demonstrating real win potential for every British player at Revery Play.<\/li>\n<\/ul>\n\n<h3>Live Casino — Professional Dealers Streaming to UK Players<\/h3>\n<p>Our live casino section brings the atmosphere of a premium brick-and-mortar establishment directly to your screen, with HD-streamed tables powered by Evolution Gaming, Pragmatic Play Live, and Ezugi. British players can access over 100 live dealer tables at any time, including multiple roulette variants, blackjack rooms, baccarat lounges, poker tables, and immersive game shows. Evolution's iconic Crazy Time game show is available 24\/7, offering multiplier rounds and bonus games with wins up to 20,000x. Pragmatic Play Live contributes fan-favourite tables including Mega Roulette, Sweet Bonanza Candyland, Immersive Roulette Deluxe, and ONE Blackjack — all streamed in crystal-clear HD quality.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Choose from European Roulette (RTP 97.3%), American Roulette, XXXTreme Lightning Roulette by Evolution, Immersive Roulette Deluxe and PowerUP Roulette by Pragmatic Play Live, plus Auto Roulette, Prestige Auto Roulette, and Casino Marina Roulette from Ezugi — betting limits from £0.50 to £10,000 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Access VIP Surrender Blackjack, Gold Blackjack series, Canada Blackjack, and Blackjack Salon Privé by Ezugi alongside Evolution's full Blackjack Lobby and Pragmatic Play Live's ONE Blackjack — all featuring professional English-speaking dealers suited to UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat & Poker:<\/strong> Multiple baccarat variants available from all three live providers including Casino Marina Baccarat (A\/B\/C\/D tables by Ezugi) and Evolution's full Baccarat Lobby. Poker fans enjoy Casino Hold'em, Three Card Poker, and Evolution's full Poker Lobby.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows:<\/strong> Crazy Time (Evolution), Sweet Bonanza Candyland (Pragmatic Play Live), Mega Wheel, Snakes & Ladders Live, and Football Blitz Top Card — delivering a unique blend of television-style entertainment and real money gambling beloved by UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ezugi Specialties:<\/strong> Andar Bahar, Bet on Teen Patti, and Claw Roulette — exclusive table formats offering UK players an exotic live gaming dimension not found on every British gaming platform.<\/li>\n<\/ul>\n\n<h3>What Instant Win Games Does Revery Play Offer to UK Players?<\/h3>\n<p>Instant win gaming is a rapidly growing segment among British players, and at Revery Play we host one of the most comprehensive crash and instant win libraries in the UK online casino market. This category includes over 50 titles spanning crash games, Plinko variants, mines, and skill-based betting formats — all accessible instantly via mobile or desktop without any download required.<\/p>\n<p>Our Instant Win collection includes Aviator by Aviator Studio (the global phenomenon loved by UK gamblers), Spaceman by Pragmatic Play, Chicken Road series (multiple variants by InOut Games), Big Bass Crash, Mine Slot, Fish Boom, Crash X, HiLo, Limbo XY, Plinko XY, and Dice from multiple certified providers including BGaming, Turbogames, and Mascot Gaming. These games are certified for fairness via provably fair RNG algorithms, giving British players complete transparency over every outcome.<\/p>\n\n<h3>Tournaments — Competing for Real Prizes at Revery Play UK<\/h3>\n<p>We run regular competitive tournaments open to all UK players, offering genuine prize pools in cash and free spins. Our flagship events include Legends of the Month (€2,000 + 2,000 Free Spins prize pool), Kings of the Live Tables (€3,000 cash prize pool exclusively for live casino players), and the Spin Rush tournament (500 Free Spins prize pool for slot enthusiasts). Tournament leaderboards update in real-time, and prizes are distributed across multiple positions — meaning UK players don't need to finish first to claim a reward. All tournaments are free to enter and available directly through your Revery Play account dashboard.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f4cc78;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Provider<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic Play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.5%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Sweet Bonanza 1000<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic Play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.5%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Crazy Time<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Evolution<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.08%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Aviator<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Aviator Studio<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97.0%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Big Bass Bonanza<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic Play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.71%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>San Quentin 2<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Nolimit City<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.0%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wild Million<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">BGaming<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.7%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Gaming — Full Revery Play Experience on Any UK Device<\/h3>\n<p>Every game in our portfolio is fully optimised for mobile play, allowing British players to enjoy slots, live casino tables, and crash games from any smartphone or tablet without compromising on quality. Our mobile-first platform uses HTML5 technology to deliver smooth, responsive gameplay across iOS and Android devices — no app download required. Live dealer tables stream in HD quality even on 4G connections, while instant win crash games like Aviator and Plinko XY load in under two seconds. UK players can deposit, play, claim bonuses, and withdraw directly through their mobile browser, enjoying the complete Revery Play casino experience wherever they are in Britain.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Bonuses & Banking for UK Players",
+                        "description": "<h2>Revery Play Bonuses & Banking Options for UK Players<\/h2>\n\n<p>At Revery Play, we believe British players deserve the most rewarding bonus experience in the UK online casino market. Our Welcome Pack offers up to £5,000 in bonus funds plus 250 Free Spins for new players making their first deposit — one of the most generous welcome offers available to UK gamblers. Beyond the sign-up bonus, we maintain a full calendar of weekly and monthly promotions including cashback rewards, Wheel of Fortune spins, tournament prize pools, and a multi-tier loyalty programme. We support all major UK payment methods, process withdrawals efficiently, and ensure every financial transaction is protected by SSL 256-bit encryption and PCI-DSS compliant infrastructure. Whether you're depositing via debit card, e-wallet, or bank transfer, banking at Revery Play is fast, secure, and hassle-free for every UK player.<\/p>\n\n<h3>Welcome Pack — Up to £5,000 + 250 Free Spins for New UK Players<\/h3>\n<p>Our Welcome Pack is designed to give new British players the best possible start on our platform. Upon completing registration and making your qualifying first deposit, you unlock access to our multi-part welcome bonus package worth up to £5,000 in total bonus funds plus 250 Free Spins on selected certified slot titles. The welcome offer is structured across your first deposits, meaning UK players can maximise their bonus value by spreading their initial funding across multiple qualifying transactions. Free Spins are credited to your account immediately upon bonus activation and can be used on top-rated Pragmatic Play and BGaming slot titles available on our platform.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Welcome Pack Total Value:<\/strong> Up to £5,000 in bonus funds across qualifying first deposits plus 250 Free Spins credited to your Revery Play account upon activation — one of the highest-value welcome offers in the UK online gambling sector.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Free Spins Usage:<\/strong> All 250 Free Spins can be used on certified slot titles from our portfolio, with winnings from spins credited as real money or bonus funds depending on the current terms applicable to UK players at the time of registration.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Eligibility:<\/strong> The Welcome Pack is available exclusively to new Revery Play accounts verified with a valid UK address, email address, and payment method. Age verification (18+) is mandatory in compliance with UK responsible gambling regulations.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Terms:<\/strong> Standard wagering requirements apply to all bonus funds. UK players are advised to review full terms and conditions available in the promotions section of the Revery Play website before claiming any offer.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions — Weekly Rewards for British Players<\/h3>\n<p>We keep the excitement going well beyond the welcome offer, with a full suite of recurring promotions available to active UK players every week. Our Wheel of Fortune feature lets players spin for cash prizes or free spins on a regular basis, while weekly cashback bonuses return a percentage of net losses directly to your account — ensuring every British player gets something back regardless of session outcomes. Tournament events including Legends of the Month (€2,000 + 2,000 FS), Kings of the Live Tables (€3,000), and Spin Rush (500 FS) run continuously, giving UK gamblers the chance to compete for shared prize pools while playing their favourite games.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Cashback:<\/strong> Receive a percentage of your net weekly losses returned as cashback bonus funds — automatically credited to your Revery Play account every week for eligible UK players with qualifying activity during the cashback period.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wheel of Fortune:<\/strong> Spin our Wheel of Fortune feature for the chance to win instant cash prizes or free spins on certified slot titles. Available as a recurring promotional reward for active British players on the Revery Play platform.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournaments:<\/strong> Three concurrent tournament formats run at all times — slots tournaments, live casino leaderboards, and free spin competitions — distributing cash and free spin prizes across the top performers each week among UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Loyalty Programme:<\/strong> Progress through four tiers — Dreamer, Enchanter, Believer, and Legend — earning loyalty points on every real money wager. Higher tiers unlock elite perks, elevated privileges, and the best exchange rates for complimentary points redeemable for real cash.<\/li>\n<\/ul>\n\n<h3>How Does the Revery Play Loyalty Programme Work for UK Players?<\/h3>\n<p>Our loyalty programme is one of the most rewarding in the UK online casino space, built around a four-tier progression system that rewards British players for every real money spin, bet, and table session. As a Dreamer (entry level), you begin accumulating loyalty points from your very first wager. Progress to Enchanter unlocks enhanced point multipliers and exclusive promotional access. The Believer tier delivers prioritised withdrawal processing and dedicated account management, while reaching Legend status grants the highest exchange rates, VIP event invitations, and bespoke UK-focused bonuses crafted specifically for our most loyal British players.<\/p>\n\n<h3>Banking Methods — Fast & Secure Payments for UK Players<\/h3>\n<p>We support a comprehensive range of deposit and withdrawal methods trusted by British players across the United Kingdom. All transactions are protected by SSL 256-bit encryption and processed through PCI-DSS compliant payment infrastructure, ensuring your funds and personal data are always secure at Revery Play. UK players can deposit instantly using major debit cards, e-wallets including PayPal, Skrill, and Neteller, plus bank transfer options. Minimum deposit thresholds are set to accommodate both casual UK players and high-rollers seeking premium wagering limits.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f4cc78;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #101d2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #172636;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Faster Payments<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2-4 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">£10<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Responsible Gambling — Safe Play for UK Players at Revery Play<\/h3>\n<p>We are fully committed to responsible gambling practices and the wellbeing of every British player on our platform. Revery Play provides a complete suite of responsible gaming tools including deposit limits, loss limits, session time reminders, cooling-off periods, and self-exclusion options — all accessible directly from your UK account settings. We encourage all British players to gamble within their means and to make use of resources from organisations including GamCare, BeGambleAware, and GamStop — the UK's national self-exclusion scheme. Our responsible gaming tools are available 24\/7 and can be activated instantly, ensuring UK players always remain in control of their gambling activity at Revery Play.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the Welcome Pack at Revery Play?",
+                            "answer": "Register your account, verify your UK identity, and make your first qualifying deposit to unlock the Welcome Pack worth up to £5,000 + 250 Free Spins. Bonus funds are credited automatically within minutes. Standard wagering terms apply — check the promotions page for full UK conditions.\n"
+                        },
+                        {
+                            "title": "What payment methods are available for UK players?",
+                            "answer": "UK players at Revery Play can deposit and withdraw using Visa, Mastercard, PayPal, Skrill, Neteller, Faster Payments, and bank transfers. Debit cards and e-wallets process instantly, while bank transfers take 1-3 business days. All transactions are protected by SSL 256-bit encryption.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Revery Play UK?",
+                            "answer": "E-wallet withdrawals via PayPal, Skrill, and Neteller are processed within 2-4 hours for verified UK accounts. Faster Payments bank transfers take up to 24 hours, while standard bank transfers may take 1-3 business days. Complete identity verification to unlock the fastest withdrawal speeds.\n"
+                        },
+                        {
+                            "title": "Is Revery Play a licensed and safe casino for UK players?",
+                            "answer": "Yes — Revery Play operates under a valid gaming licence and uses SSL 256-bit encryption to protect 100% of UK player transactions and personal data. All games are RNG-tested by independent auditors for certified fair play outcomes. We fully comply with responsible gambling regulations for British players.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile in the UK?",
+                            "answer": "Absolutely. Our full live casino portfolio from Evolution, Pragmatic Play Live, and Ezugi is fully optimised for mobile play on iOS and Android devices across the UK. No app download is needed — simply open Revery Play in your mobile browser and enjoy HD-streamed live tables instantly on any 4G or Wi-Fi connection.\n"
+                        },
+                        {
+                            "title": "How does the Revery Play loyalty programme work?",
+                            "answer": "Our loyalty programme features four tiers — Dreamer, Enchanter, Believer, and Legend. UK players earn points on every real money bet placed on the platform. Points accumulate automatically and unlock elite perks, higher exchange rates, and exclusive British-player rewards as you progress through each tier.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools does Revery Play offer?",
+                            "answer": "Revery Play provides UK players with deposit limits, loss limits, session time reminders, cooling-off periods, and self-exclusion options — all available directly in your account settings. We also signpost to GamCare, BeGambleAware, and GamStop for additional UK responsible gambling support available 24\/7.\n"
+                        },
+                        {
+                            "title": "Which game providers are available at Revery Play?",
+                            "answer": "We partner with 40+ certified software providers including Pragmatic Play, Evolution Gaming, BGaming, Nolimit City, Hacksaw Gaming, Playson, Ezugi, Yggdrasil, PG Soft, Red Tiger Gaming, and many more. Every provider is independently certified, delivering RNG-tested games to UK players across all categories.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

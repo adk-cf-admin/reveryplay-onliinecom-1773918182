@@ -1,0 +1,19 @@
+{
+  "name": "Revery Play",
+  "short_name": "Revery Play",
+  "theme_color": "",
+  "background_color": "#0D2035",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773917440-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
